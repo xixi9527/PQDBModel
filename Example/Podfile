@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PQDBModel_Example' do
+  pod 'PQDBModel', :path => '../'
+
+  target 'PQDBModel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
