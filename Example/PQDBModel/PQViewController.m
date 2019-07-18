@@ -7,6 +7,7 @@
 //
 
 #import "PQViewController.h"
+#import <PQDBModel/JKDBModel.h>
 
 @interface PQViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    JKDBModel *model = [[JKDBModel alloc] init];
 }
 
 - (void)didReceiveMemoryWarning

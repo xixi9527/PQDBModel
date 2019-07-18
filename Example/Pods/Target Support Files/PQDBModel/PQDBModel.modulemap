@@ -1,0 +1,6 @@
+framework module PQDBModel {
+  umbrella header "PQDBModel-umbrella.h"
+
+  export *
+  module * { export * }
+}

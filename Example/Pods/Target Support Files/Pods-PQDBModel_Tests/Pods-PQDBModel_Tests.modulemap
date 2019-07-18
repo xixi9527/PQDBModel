@@ -1,0 +1,6 @@
+framework module Pods_PQDBModel_Tests {
+  umbrella header "Pods-PQDBModel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

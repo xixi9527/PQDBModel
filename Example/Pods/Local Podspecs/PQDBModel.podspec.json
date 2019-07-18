@@ -1,0 +1,27 @@
+{
+  "name": "PQDBModel",
+  "version": "0.1.0",
+  "summary": "A short description of PQDBModel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xixi9527/PQDBModel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xixi9527": "437015310@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/xixi9527/PQDBModel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PQDBModel/Classes/**/*",
+  "dependencies": {
+    "FMDB": [
+
+    ]
+  }
+}
